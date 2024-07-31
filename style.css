@@ -1,0 +1,28 @@
+.roll {
+    display: none;
+}
+.rolling {
+   display: inline;
+}
+.video {
+    display: none;
+}
+.play {
+    display: inline;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+};
+div .first{
+    width: 250px;
+    height: 425px;
+    border: 3px solid black;
+    padding: 10px;
+    outline: #4CAF50 solid 10px;
+    background-color: rgb(36, 34, 34);
+    top: 50%;
+    left: 50%;
+    transform: translate(-45%, -45%);
+    position: absolute;
+};
